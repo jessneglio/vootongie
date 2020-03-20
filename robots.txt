@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://johyooshah.beeblebrox.ch/sitemap.xml
